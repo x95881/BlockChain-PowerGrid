@@ -2,6 +2,8 @@
 
 #PyMySQL
 import pymysql.cursors
+#JSON for exporting
+import json
 
 # Connect to the database
 connection = pymysql.connect(host='10.9.0.4',
@@ -18,6 +20,11 @@ try:
 
         cursor.execute(sql)
         result = cursor.fetchone()
+        
+        file = open('someFile.txt','a')
+        file.write(str(result)+"\n")
+        file.close()
         print(result)
+        
 finally:
     connection.close()
