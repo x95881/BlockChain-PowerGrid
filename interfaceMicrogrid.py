@@ -15,16 +15,37 @@ connection = pymysql.connect(host='10.9.0.4',
 
 try:
     with connection.cursor() as cursor:
-        # Test a select query
-        sql = "SELECT tsmID, Timestamp FROM timeseriesmeasurement WHERE tsmID = (SELECT MAX(tsmID) FROM timeseriesmeasurement)"
 
-        cursor.execute(sql)
-        result = cursor.fetchone()
-        
+        #Opens necessary files
         file = open('someFile.txt','a')
-        file.write(str(result)+"\n")
+        constraints = open('constraints.txt','r')
+        lines = constraints.read().split('\n')
+
+        #Our loop that runs through the PMUs listed in the constraints file, expandable
+        for x in range(16):
+            #Creates the applicable variables for our queries
+            items = lines[x].split(',')
+            pmu = items[0]
+            pmuNum = items[1]
+            dataType = items[2]
+            dataMin = items[3]
+            dataMax = items[4]
+            
+            #Base SQL query
+            cursor.execute("SELECT Value,tsmID FROM timeseriesmeasurement WHERE SignalID = %s AND Value <= %s AND Value >= %s AND tsmID >= (SELECT MAX(tsmID) FROM timeseriesmeasurement)-600 LIMIT 1", (pmu,dataMax,dataMin))
+            result = cursor.fetchone()
+            
+            #Writes to a file in a readable format
+            file.write("PMU "+str(pmuNum)+" "+str(dataType)+" Reading: "+str(result)+"\n")
+
+            #Prints to console
+            print(result)
+            
+        #Closes all files    
+        constraints.close()
+        file.write("\n")
         file.close()
-        print(result)
+        
         
 finally:
     connection.close()

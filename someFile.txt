@@ -1,0 +1,646 @@
+PMU 1 voltage Reading: {'Value': 26735.5, 'tsmID': 1745805026}
+PMU 2 voltage Reading: {'Value': 26732.3, 'tsmID': 1745805126}
+PMU 3 voltage Reading: {'Value': 26735.5, 'tsmID': 1745805034}
+PMU 4 voltage Reading: {'Value': 26722.4, 'tsmID': 1745805018}
+PMU 5 voltage Reading: {'Value': 26719.0, 'tsmID': 1745805081}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 107.409, 'tsmID': 1745805028}
+PMU 2 current Reading: {'Value': 53.778, 'tsmID': 1745805128}
+PMU 3 current Reading: {'Value': 9.48627, 'tsmID': 1745805036}
+PMU 4 current Reading: {'Value': 190.546, 'tsmID': 1745805020}
+PMU 5 current Reading: {'Value': 47.6827, 'tsmID': 1745805083}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26740.7, 'tsmID': 1748399601}
+PMU 2 voltage Reading: {'Value': 26729.0, 'tsmID': 1748399555}
+PMU 3 voltage Reading: {'Value': 26728.2, 'tsmID': 1748399616}
+PMU 4 voltage Reading: {'Value': 26717.8, 'tsmID': 1748399586}
+PMU 5 voltage Reading: {'Value': 26720.0, 'tsmID': 1748399647}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 108.204, 'tsmID': 1748399603}
+PMU 2 current Reading: {'Value': 53.8288, 'tsmID': 1748399557}
+PMU 3 current Reading: {'Value': 9.53904, 'tsmID': 1748399618}
+PMU 4 current Reading: {'Value': 190.222, 'tsmID': 1748399588}
+PMU 5 current Reading: {'Value': 47.1767, 'tsmID': 1748399649}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26743.6, 'tsmID': 1749563002}
+PMU 2 voltage Reading: {'Value': 26741.7, 'tsmID': 1749562971}
+PMU 3 voltage Reading: {'Value': 26731.5, 'tsmID': 1749562870}
+PMU 4 voltage Reading: {'Value': 26723.1, 'tsmID': 1749562979}
+PMU 5 voltage Reading: {'Value': 26718.6, 'tsmID': 1749562893}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.357, 'tsmID': 1749563004}
+PMU 2 current Reading: {'Value': 54.0775, 'tsmID': 1749562973}
+PMU 3 current Reading: {'Value': 9.39199, 'tsmID': 1749562872}
+PMU 4 current Reading: {'Value': 190.444, 'tsmID': 1749562981}
+PMU 5 current Reading: {'Value': 47.5313, 'tsmID': 1749562895}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1749624399, 'Value': 26720.1}
+PMU 2 voltage Reading: {'tsmID': 1749624369, 'Value': 26711.1}
+PMU 3 voltage Reading: {'tsmID': 1749624278, 'Value': 26703.6}
+PMU 4 voltage Reading: {'tsmID': 1749624384, 'Value': 26696.7}
+PMU 5 voltage Reading: {'tsmID': 1749624293, 'Value': 26691.1}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1749624401, 'Value': 110.648}
+PMU 2 current Reading: {'tsmID': 1749624371, 'Value': 53.3845}
+PMU 3 current Reading: {'tsmID': 1749624280, 'Value': 8.85171}
+PMU 4 current Reading: {'tsmID': 1749624386, 'Value': 187.807}
+PMU 5 current Reading: {'tsmID': 1749624295, 'Value': 46.577}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1749694703, 'Value': 26719.5}
+PMU 2 voltage Reading: {'tsmID': 1749694650, 'Value': 26710.1}
+PMU 3 voltage Reading: {'tsmID': 1749694688, 'Value': 26707.2}
+PMU 4 voltage Reading: {'tsmID': 1749694673, 'Value': 26700.1}
+PMU 5 voltage Reading: {'tsmID': 1749694718, 'Value': 26702.5}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1749694705, 'Value': 109.456}
+PMU 2 current Reading: {'tsmID': 1749694652, 'Value': 53.6165}
+PMU 3 current Reading: {'tsmID': 1749694690, 'Value': 9.30658}
+PMU 4 current Reading: {'tsmID': 1749694675, 'Value': 188.769}
+PMU 5 current Reading: {'tsmID': 1749694720, 'Value': 47.3177}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26720.3, 'tsmID': 1749744848}
+PMU 2 voltage Reading: {'Value': 26712.2, 'tsmID': 1749744833}
+PMU 3 voltage Reading: {'Value': 26712.2, 'tsmID': 1749744879}
+PMU 4 voltage Reading: {'Value': 26699.9, 'tsmID': 1749744863}
+PMU 5 voltage Reading: {'Value': 26709.9, 'tsmID': 1749744926}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 108.487, 'tsmID': 1749744850}
+PMU 2 current Reading: {'Value': 53.3092, 'tsmID': 1749744835}
+PMU 3 current Reading: {'Value': 9.18814, 'tsmID': 1749744881}
+PMU 4 current Reading: {'Value': 189.243, 'tsmID': 1749744865}
+PMU 5 current Reading: {'Value': 46.8973, 'tsmID': 1749744928}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26704.5, 'tsmID': 1749829887}
+PMU 2 voltage Reading: {'Value': 26701.5, 'tsmID': 1749829857}
+PMU 3 voltage Reading: {'Value': 26698.7, 'tsmID': 1749829797}
+PMU 4 voltage Reading: {'Value': 26685.3, 'tsmID': 1749829902}
+PMU 5 voltage Reading: {'Value': 26687.1, 'tsmID': 1749829812}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 108.169, 'tsmID': 1749829889}
+PMU 2 current Reading: {'Value': 53.1171, 'tsmID': 1749829859}
+PMU 3 current Reading: {'Value': 9.30658, 'tsmID': 1749829799}
+PMU 4 current Reading: {'Value': 189.642, 'tsmID': 1749829904}
+PMU 5 current Reading: {'Value': 47.225, 'tsmID': 1749829814}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26721.5, 'tsmID': 1749866806}
+PMU 2 voltage Reading: {'Value': 26723.5, 'tsmID': 1749866776}
+PMU 3 voltage Reading: {'Value': 26718.0, 'tsmID': 1749866692}
+PMU 4 voltage Reading: {'Value': 26710.5, 'tsmID': 1749866684}
+PMU 5 voltage Reading: {'Value': 26709.3, 'tsmID': 1749866731}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 108.267, 'tsmID': 1749866808}
+PMU 2 current Reading: {'Value': 53.5569, 'tsmID': 1749866778}
+PMU 3 current Reading: {'Value': 9.3847, 'tsmID': 1749866694}
+PMU 4 current Reading: {'Value': 189.433, 'tsmID': 1749866686}
+PMU 5 current Reading: {'Value': 47.1147, 'tsmID': 1749866733}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1749891824, 'Value': 26726.8}
+PMU 2 voltage Reading: {'tsmID': 1749891763, 'Value': 26721.5}
+PMU 3 voltage Reading: {'tsmID': 1749891801, 'Value': 26720.6}
+PMU 4 voltage Reading: {'tsmID': 1749891778, 'Value': 26708.0}
+PMU 5 voltage Reading: {'tsmID': 1749891670, 'Value': 26712.5}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1749891826, 'Value': 108.088}
+PMU 2 current Reading: {'tsmID': 1749891765, 'Value': 53.8017}
+PMU 3 current Reading: {'tsmID': 1749891803, 'Value': 9.20799}
+PMU 4 current Reading: {'tsmID': 1749891780, 'Value': 189.537}
+PMU 5 current Reading: {'tsmID': 1749891672, 'Value': 47.2076}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1749922959, 'Value': 26708.9}
+PMU 2 voltage Reading: {'tsmID': 1749922967, 'Value': 26703.8}
+PMU 3 voltage Reading: {'tsmID': 1749922990, 'Value': 26703.8}
+PMU 4 voltage Reading: {'tsmID': 1749922975, 'Value': 26686.2}
+PMU 5 voltage Reading: {'tsmID': 1749923005, 'Value': 26691.4}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1749922961, 'Value': 107.853}
+PMU 2 current Reading: {'tsmID': 1749922969, 'Value': 53.9559}
+PMU 3 current Reading: {'tsmID': 1749922992, 'Value': 9.39928}
+PMU 4 current Reading: {'tsmID': 1749922977, 'Value': 189.372}
+PMU 5 current Reading: {'tsmID': 1749923007, 'Value': 47.1534}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1749944921, 'Value': 26715.8}
+PMU 2 voltage Reading: {'tsmID': 1749944937, 'Value': 26710.7}
+PMU 3 voltage Reading: {'tsmID': 1749944929, 'Value': 26705.5}
+PMU 4 voltage Reading: {'tsmID': 1749944906, 'Value': 26697.1}
+PMU 5 voltage Reading: {'tsmID': 1749944952, 'Value': 26698.3}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1749944923, 'Value': 108.613}
+PMU 2 current Reading: {'tsmID': 1749944939, 'Value': 53.1738}
+PMU 3 current Reading: {'tsmID': 1749944931, 'Value': 9.18814}
+PMU 4 current Reading: {'tsmID': 1749944908, 'Value': 189.487}
+PMU 5 current Reading: {'tsmID': 1749944954, 'Value': 47.1534}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1749990481, 'Value': 26733.3}
+PMU 2 voltage Reading: {'tsmID': 1749990473, 'Value': 26723.5}
+PMU 3 voltage Reading: {'tsmID': 1749990365, 'Value': 26717.3}
+PMU 4 voltage Reading: {'tsmID': 1749990350, 'Value': 26709.1}
+PMU 5 voltage Reading: {'tsmID': 1749990380, 'Value': 26706.3}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1749990483, 'Value': 108.005}
+PMU 2 current Reading: {'tsmID': 1749990475, 'Value': 53.625}
+PMU 3 current Reading: {'tsmID': 1749990367, 'Value': 9.19559}
+PMU 4 current Reading: {'tsmID': 1749990352, 'Value': 189.476}
+PMU 5 current Reading: {'tsmID': 1749990382, 'Value': 47.0546}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26730.1, 'tsmID': 1750018836}
+PMU 2 voltage Reading: {'Value': 26718.6, 'tsmID': 1750018943}
+PMU 3 voltage Reading: {'Value': 26723.9, 'tsmID': 1750018821}
+PMU 4 voltage Reading: {'Value': 26710.4, 'tsmID': 1750018844}
+PMU 5 voltage Reading: {'Value': 26712.1, 'tsmID': 1750018867}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 107.437, 'tsmID': 1750018838}
+PMU 2 current Reading: {'Value': 54.0438, 'tsmID': 1750018945}
+PMU 3 current Reading: {'Value': 9.40899, 'tsmID': 1750018823}
+PMU 4 current Reading: {'Value': 189.992, 'tsmID': 1750018846}
+PMU 5 current Reading: {'Value': 47.2076, 'tsmID': 1750018869}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750037889, 'Value': 26725.0}
+PMU 2 voltage Reading: {'tsmID': 1750037859, 'Value': 26719.8}
+PMU 3 voltage Reading: {'tsmID': 1750037874, 'Value': 26714.6}
+PMU 4 voltage Reading: {'tsmID': 1750037904, 'Value': 26706.2}
+PMU 5 voltage Reading: {'tsmID': 1750037814, 'Value': 26710.8}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750037891, 'Value': 106.827}
+PMU 2 current Reading: {'tsmID': 1750037861, 'Value': 53.7321}
+PMU 3 current Reading: {'tsmID': 1750037876, 'Value': 9.40171}
+PMU 4 current Reading: {'tsmID': 1750037906, 'Value': 190.57}
+PMU 5 current Reading: {'tsmID': 1750037816, 'Value': 47.4236}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26738.4, 'tsmID': 1750054614}
+PMU 2 voltage Reading: {'Value': 26723.1, 'tsmID': 1750054598}
+PMU 3 voltage Reading: {'Value': 26728.7, 'tsmID': 1750054630}
+PMU 4 voltage Reading: {'Value': 26715.7, 'tsmID': 1750054622}
+PMU 5 voltage Reading: {'Value': 26716.2, 'tsmID': 1750054661}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 105.663, 'tsmID': 1750054616}
+PMU 2 current Reading: {'Value': 54.3788, 'tsmID': 1750054600}
+PMU 3 current Reading: {'Value': 9.6129, 'tsmID': 1750054632}
+PMU 4 current Reading: {'Value': 191.132, 'tsmID': 1750054624}
+PMU 5 current Reading: {'Value': 47.5601, 'tsmID': 1750054663}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750116891, 'Value': 26759.5}
+PMU 2 voltage Reading: {'tsmID': 1750116876, 'Value': 26749.8}
+PMU 3 voltage Reading: {'tsmID': 1750116944, 'Value': 26749.8}
+PMU 4 voltage Reading: {'tsmID': 1750116921, 'Value': 26736.7}
+PMU 5 voltage Reading: {'tsmID': 1750116825, 'Value': 26737.3}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750116893, 'Value': 106.113}
+PMU 2 current Reading: {'tsmID': 1750116878, 'Value': 54.3788}
+PMU 3 current Reading: {'tsmID': 1750116946, 'Value': 9.6129}
+PMU 4 current Reading: {'tsmID': 1750116923, 'Value': 191.099}
+PMU 5 current Reading: {'tsmID': 1750116827, 'Value': 47.0236}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750245175, 'Value': 26769.3}
+PMU 2 voltage Reading: {'tsmID': 1750245145, 'Value': 26763.2}
+PMU 3 voltage Reading: {'tsmID': 1750245029, 'Value': 26759.2}
+PMU 4 voltage Reading: {'tsmID': 1750245191, 'Value': 26748.8}
+PMU 5 voltage Reading: {'tsmID': 1750245052, 'Value': 26744.8}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750245177, 'Value': 106.574}
+PMU 2 current Reading: {'tsmID': 1750245147, 'Value': 53.8865}
+PMU 3 current Reading: {'tsmID': 1750245031, 'Value': 9.52707}
+PMU 4 current Reading: {'tsmID': 1750245023, 'Value': 191.057}
+PMU 5 current Reading: {'tsmID': 1750245054, 'Value': 47.5946}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750264643, 'Value': 26759.9}
+PMU 2 voltage Reading: {'tsmID': 1750264565, 'Value': 26751.7}
+PMU 3 voltage Reading: {'tsmID': 1750264481, 'Value': 26747.4}
+PMU 4 voltage Reading: {'tsmID': 1750264651, 'Value': 26737.1}
+PMU 5 voltage Reading: {'tsmID': 1750264535, 'Value': 26736.1}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750264645, 'Value': 105.911}
+PMU 2 current Reading: {'tsmID': 1750264567, 'Value': 53.6794}
+PMU 3 current Reading: {'tsmID': 1750264483, 'Value': 9.3701}
+PMU 4 current Reading: {'tsmID': 1750264653, 'Value': 191.017}
+PMU 5 current Reading: {'tsmID': 1750264537, 'Value': 47.7936}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750430301, 'Value': 26727.7}
+PMU 2 voltage Reading: {'tsmID': 1750430240, 'Value': 26718.6}
+PMU 3 voltage Reading: {'tsmID': 1750430278, 'Value': 26718.4}
+PMU 4 voltage Reading: {'tsmID': 1750430255, 'Value': 26704.8}
+PMU 5 voltage Reading: {'tsmID': 1750430163, 'Value': 26709.5}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750430303, 'Value': 105.957}
+PMU 2 current Reading: {'tsmID': 1750430242, 'Value': 53.8339}
+PMU 3 current Reading: {'tsmID': 1750430150, 'Value': 9.48627}
+PMU 4 current Reading: {'tsmID': 1750430257, 'Value': 190.517}
+PMU 5 current Reading: {'tsmID': 1750430165, 'Value': 47.6923}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750449247, 'Value': 26745.0}
+PMU 2 voltage Reading: {'tsmID': 1750449232, 'Value': 26739.7}
+PMU 3 voltage Reading: {'tsmID': 1750449293, 'Value': 26735.2}
+PMU 4 voltage Reading: {'tsmID': 1750449270, 'Value': 26721.7}
+PMU 5 voltage Reading: {'tsmID': 1750449324, 'Value': 26725.2}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750449249, 'Value': 106.182}
+PMU 2 current Reading: {'tsmID': 1750449234, 'Value': 54.0438}
+PMU 3 current Reading: {'tsmID': 1750449295, 'Value': 9.4211}
+PMU 4 current Reading: {'tsmID': 1750449272, 'Value': 190.842}
+PMU 5 current Reading: {'tsmID': 1750449326, 'Value': 47.6061}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26745.9, 'tsmID': 1750463581}
+PMU 2 voltage Reading: {'Value': 26740.0, 'tsmID': 1750463566}
+PMU 3 voltage Reading: {'Value': 26734.1, 'tsmID': 1750463620}
+PMU 4 voltage Reading: {'Value': 26721.3, 'tsmID': 1750463604}
+PMU 5 voltage Reading: {'Value': 26724.6, 'tsmID': 1750463505}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.398, 'tsmID': 1750463583}
+PMU 2 current Reading: {'Value': 53.8695, 'tsmID': 1750463568}
+PMU 3 current Reading: {'Value': 9.48146, 'tsmID': 1750463622}
+PMU 4 current Reading: {'Value': 191.132, 'tsmID': 1750463606}
+PMU 5 current Reading: {'Value': 47.5543, 'tsmID': 1750463507}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26740.0, 'tsmID': 1750476228}
+PMU 2 voltage Reading: {'Value': 26737.6, 'tsmID': 1750476213}
+PMU 3 voltage Reading: {'Value': 26731.3, 'tsmID': 1750476267}
+PMU 4 voltage Reading: {'Value': 26723.5, 'tsmID': 1750476251}
+PMU 5 voltage Reading: {'Value': 26721.9, 'tsmID': 1750476152}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.098, 'tsmID': 1750476230}
+PMU 2 current Reading: {'Value': 54.1652, 'tsmID': 1750476215}
+PMU 3 current Reading: {'Value': 9.56531, 'tsmID': 1750476269}
+PMU 4 current Reading: {'Value': 190.933, 'tsmID': 1750476253}
+PMU 5 current Reading: {'Value': 47.5082, 'tsmID': 1750476154}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750488010, 'Value': 26744.9}
+PMU 2 voltage Reading: {'tsmID': 1750488165, 'Value': 26749.3}
+PMU 3 voltage Reading: {'tsmID': 1750488041, 'Value': 26738.7}
+PMU 4 voltage Reading: {'tsmID': 1750488018, 'Value': 26733.0}
+PMU 5 voltage Reading: {'tsmID': 1750488072, 'Value': 26732.7}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750488012, 'Value': 106.648}
+PMU 2 current Reading: {'tsmID': 1750488167, 'Value': 54.0978}
+PMU 3 current Reading: {'tsmID': 1750488043, 'Value': 9.53904}
+PMU 4 current Reading: {'tsmID': 1750488020, 'Value': 191.116}
+PMU 5 current Reading: {'tsmID': 1750488074, 'Value': 47.5946}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750499551, 'Value': 26735.2}
+PMU 2 voltage Reading: {'tsmID': 1750499520, 'Value': 26735.4}
+PMU 3 voltage Reading: {'tsmID': 1750499414, 'Value': 26731.9}
+PMU 4 voltage Reading: {'tsmID': 1750499559, 'Value': 26716.0}
+PMU 5 voltage Reading: {'tsmID': 1750499445, 'Value': 26720.7}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750499553, 'Value': 106.182}
+PMU 2 current Reading: {'tsmID': 1750499522, 'Value': 53.839}
+PMU 3 current Reading: {'tsmID': 1750499416, 'Value': 9.51748}
+PMU 4 current Reading: {'tsmID': 1750499561, 'Value': 190.469}
+PMU 5 current Reading: {'tsmID': 1750499447, 'Value': 47.1941}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750511808, 'Value': 26750.7}
+PMU 2 voltage Reading: {'tsmID': 1750511778, 'Value': 26742.9}
+PMU 3 voltage Reading: {'tsmID': 1750511702, 'Value': 26744.8}
+PMU 4 voltage Reading: {'tsmID': 1750511838, 'Value': 26730.3}
+PMU 5 voltage Reading: {'tsmID': 1750511717, 'Value': 26729.1}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750511810, 'Value': 106.173}
+PMU 2 current Reading: {'tsmID': 1750511780, 'Value': 54.2662}
+PMU 3 current Reading: {'tsmID': 1750511704, 'Value': 9.37984}
+PMU 4 current Reading: {'tsmID': 1750511840, 'Value': 190.829}
+PMU 5 current Reading: {'tsmID': 1750511719, 'Value': 47.6847}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750523858, 'Value': 26740.5}
+PMU 2 voltage Reading: {'tsmID': 1750523843, 'Value': 26732.4}
+PMU 3 voltage Reading: {'tsmID': 1750523768, 'Value': 26739.5}
+PMU 4 voltage Reading: {'tsmID': 1750523753, 'Value': 26729.6}
+PMU 5 voltage Reading: {'tsmID': 1750523813, 'Value': 26719.9}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750523860, 'Value': 106.665}
+PMU 2 current Reading: {'tsmID': 1750523845, 'Value': 54.2258}
+PMU 3 current Reading: {'tsmID': 1750523770, 'Value': 9.45736}
+PMU 4 current Reading: {'tsmID': 1750523755, 'Value': 190.593}
+PMU 5 current Reading: {'tsmID': 1750523815, 'Value': 47.4236}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26759.2, 'tsmID': 1750535614}
+PMU 2 voltage Reading: {'Value': 26753.4, 'tsmID': 1750535575}
+PMU 3 voltage Reading: {'Value': 26750.0, 'tsmID': 1750535630}
+PMU 4 voltage Reading: {'Value': 26736.4, 'tsmID': 1750535622}
+PMU 5 voltage Reading: {'Value': 26740.0, 'tsmID': 1750535473}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.36, 'tsmID': 1750535616}
+PMU 2 current Reading: {'Value': 54.3015, 'tsmID': 1750535577}
+PMU 3 current Reading: {'Value': 9.67206, 'tsmID': 1750535632}
+PMU 4 current Reading: {'Value': 190.657, 'tsmID': 1750535624}
+PMU 5 current Reading: {'Value': 47.1767, 'tsmID': 1750535475}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26776.7, 'tsmID': 1750547571}
+PMU 2 voltage Reading: {'Value': 26767.4, 'tsmID': 1750547540}
+PMU 3 voltage Reading: {'Value': 26765.5, 'tsmID': 1750547586}
+PMU 4 voltage Reading: {'Value': 26752.2, 'tsmID': 1750547594}
+PMU 5 voltage Reading: {'Value': 26756.3, 'tsmID': 1750547479}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.339, 'tsmID': 1750547573}
+PMU 2 current Reading: {'Value': 54.1096, 'tsmID': 1750547542}
+PMU 3 current Reading: {'Value': 9.48627, 'tsmID': 1750547588}
+PMU 4 current Reading: {'Value': 191.054, 'tsmID': 1750547596}
+PMU 5 current Reading: {'Value': 47.5946, 'tsmID': 1750547481}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26764.5, 'tsmID': 1750594998}
+PMU 2 voltage Reading: {'Value': 26755.3, 'tsmID': 1750594968}
+PMU 3 voltage Reading: {'Value': 26753.5, 'tsmID': 1750595028}
+PMU 4 voltage Reading: {'Value': 26741.6, 'tsmID': 1750595013}
+PMU 5 voltage Reading: {'Value': 26742.4, 'tsmID': 1750595043}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.811, 'tsmID': 1750595000}
+PMU 2 current Reading: {'Value': 54.3553, 'tsmID': 1750594970}
+PMU 3 current Reading: {'Value': 9.46218, 'tsmID': 1750595030}
+PMU 4 current Reading: {'Value': 191.344, 'tsmID': 1750595015}
+PMU 5 current Reading: {'Value': 47.4256, 'tsmID': 1750595045}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750625108, 'Value': 26763.0}
+PMU 2 voltage Reading: {'tsmID': 1750625264, 'Value': 26751.8}
+PMU 3 voltage Reading: {'tsmID': 1750625140, 'Value': 26756.1}
+PMU 4 voltage Reading: {'tsmID': 1750625124, 'Value': 26744.1}
+PMU 5 voltage Reading: {'tsmID': 1750625171, 'Value': 26739.8}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750625110, 'Value': 106.381}
+PMU 2 current Reading: {'tsmID': 1750625095, 'Value': 53.9356}
+PMU 3 current Reading: {'tsmID': 1750625142, 'Value': 9.48627}
+PMU 4 current Reading: {'tsmID': 1750625126, 'Value': 190.646}
+PMU 5 current Reading: {'tsmID': 1750625173, 'Value': 47.3909}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750752274, 'Value': 26703.0}
+PMU 2 voltage Reading: {'tsmID': 1750752259, 'Value': 26696.9}
+PMU 3 voltage Reading: {'tsmID': 1750752313, 'Value': 26695.0}
+PMU 4 voltage Reading: {'tsmID': 1750752297, 'Value': 26682.5}
+PMU 5 voltage Reading: {'tsmID': 1750752199, 'Value': 26693.0}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750752276, 'Value': 106.023}
+PMU 2 current Reading: {'tsmID': 1750752261, 'Value': 53.8814}
+PMU 3 current Reading: {'tsmID': 1750752315, 'Value': 9.52707}
+PMU 4 current Reading: {'tsmID': 1750752299, 'Value': 190.46}
+PMU 5 current Reading: {'tsmID': 1750752201, 'Value': 47.4313}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26704.8, 'tsmID': 1750819976}
+PMU 2 voltage Reading: {'Value': 26697.1, 'tsmID': 1750819961}
+PMU 3 voltage Reading: {'Value': 26693.2, 'tsmID': 1750819991}
+PMU 4 voltage Reading: {'Value': 26684.5, 'tsmID': 1750820006}
+PMU 5 voltage Reading: {'Value': 26683.4, 'tsmID': 1750820021}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.402, 'tsmID': 1750819978}
+PMU 2 current Reading: {'Value': 54.0758, 'tsmID': 1750819963}
+PMU 3 current Reading: {'Value': 9.40899, 'tsmID': 1750819993}
+PMU 4 current Reading: {'Value': 190.236, 'tsmID': 1750820008}
+PMU 5 current Reading: {'Value': 47.3639, 'tsmID': 1750820023}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26694.4, 'tsmID': 1750867880}
+PMU 2 voltage Reading: {'Value': 26694.4, 'tsmID': 1750867864}
+PMU 3 voltage Reading: {'Value': 26687.4, 'tsmID': 1750867896}
+PMU 4 voltage Reading: {'Value': 26674.0, 'tsmID': 1750867888}
+PMU 5 voltage Reading: {'Value': 26679.4, 'tsmID': 1750867771}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.949, 'tsmID': 1750867882}
+PMU 2 current Reading: {'Value': 53.9152, 'tsmID': 1750867866}
+PMU 3 current Reading: {'Value': 9.46218, 'tsmID': 1750867898}
+PMU 4 current Reading: {'Value': 190.147, 'tsmID': 1750867890}
+PMU 5 current Reading: {'Value': 47.1999, 'tsmID': 1750867773}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26705.5, 'tsmID': 1750892430}
+PMU 2 voltage Reading: {'Value': 26702.5, 'tsmID': 1750892369}
+PMU 3 voltage Reading: {'Value': 26698.2, 'tsmID': 1750892399}
+PMU 4 voltage Reading: {'Value': 26686.7, 'tsmID': 1750892384}
+PMU 5 voltage Reading: {'Value': 26689.7, 'tsmID': 1750892460}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 107.107, 'tsmID': 1750892432}
+PMU 2 current Reading: {'Value': 53.9356, 'tsmID': 1750892371}
+PMU 3 current Reading: {'Value': 9.3701, 'tsmID': 1750892401}
+PMU 4 current Reading: {'Value': 190.349, 'tsmID': 1750892386}
+PMU 5 current Reading: {'Value': 47.3755, 'tsmID': 1750892462}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'Value': 26716.8, 'tsmID': 1750910639}
+PMU 2 voltage Reading: {'Value': 26709.2, 'tsmID': 1750910624}
+PMU 3 voltage Reading: {'Value': 26706.0, 'tsmID': 1750910476}
+PMU 4 voltage Reading: {'Value': 26693.5, 'tsmID': 1750910669}
+PMU 5 voltage Reading: {'Value': 26696.7, 'tsmID': 1750910515}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'Value': 106.768, 'tsmID': 1750910641}
+PMU 2 current Reading: {'Value': 53.7797, 'tsmID': 1750910626}
+PMU 3 current Reading: {'Value': 9.28449, 'tsmID': 1750910470}
+PMU 4 current Reading: {'Value': 190.125, 'tsmID': 1750910671}
+PMU 5 current Reading: {'Value': 47.1534, 'tsmID': 1750910517}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750922775, 'Value': 26747.7}
+PMU 2 voltage Reading: {'tsmID': 1750922760, 'Value': 26744.2}
+PMU 3 voltage Reading: {'tsmID': 1750922814, 'Value': 26739.8}
+PMU 4 voltage Reading: {'tsmID': 1750922798, 'Value': 26728.9}
+PMU 5 voltage Reading: {'tsmID': 1750922853, 'Value': 26729.5}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750922777, 'Value': 106.816}
+PMU 2 current Reading: {'tsmID': 1750922762, 'Value': 53.9609}
+PMU 3 current Reading: {'tsmID': 1750922816, 'Value': 9.32617}
+PMU 4 current Reading: {'tsmID': 1750922800, 'Value': 190.497}
+PMU 5 current Reading: {'tsmID': 1750922855, 'Value': 47.0139}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1750998855, 'Value': 26725.3}
+PMU 2 voltage Reading: {'tsmID': 1750998840, 'Value': 26716.2}
+PMU 3 voltage Reading: {'tsmID': 1750998885, 'Value': 26716.2}
+PMU 4 voltage Reading: {'tsmID': 1750998901, 'Value': 26702.5}
+PMU 5 voltage Reading: {'tsmID': 1750998948, 'Value': 26707.3}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1750998857, 'Value': 106.665}
+PMU 2 current Reading: {'tsmID': 1750998842, 'Value': 53.8594}
+PMU 3 current Reading: {'tsmID': 1750998887, 'Value': 9.45977}
+PMU 4 current Reading: {'tsmID': 1750998903, 'Value': 190.267}
+PMU 5 current Reading: {'tsmID': 1750998950, 'Value': 47.4256}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
+PMU 1 voltage Reading: {'tsmID': 1751022617, 'Value': 26724.7}
+PMU 2 voltage Reading: {'tsmID': 1751022602, 'Value': 26715.4}
+PMU 3 voltage Reading: {'tsmID': 1751022647, 'Value': 26715.2}
+PMU 4 voltage Reading: {'tsmID': 1751022677, 'Value': 26701.0}
+PMU 5 voltage Reading: {'tsmID': 1751022692, 'Value': 26701.3}
+PMU 6 voltage Reading: None
+PMU 7 voltage Reading: None
+PMU 8 voltage Reading: None
+PMU 1 current Reading: {'tsmID': 1751022619, 'Value': 107.045}
+PMU 2 current Reading: {'tsmID': 1751022604, 'Value': 53.9152}
+PMU 3 current Reading: {'tsmID': 1751022649, 'Value': 9.6508}
+PMU 4 current Reading: {'tsmID': 1751022679, 'Value': 190.61}
+PMU 5 current Reading: {'tsmID': 1751022694, 'Value': 47.6847}
+PMU 6 current Reading: None
+PMU 7 current Reading: None
+PMU 8 current Reading: None
+
